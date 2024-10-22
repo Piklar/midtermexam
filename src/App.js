@@ -36,7 +36,7 @@ function App() {
       "Being Prepared"
     ];
 
-    if (value === "R") {
+    if (value === "RESET") {
       setDisplayValue("10 Things That Require Zero Talent");
     } else if (value === "MANALO") {
       setDisplayValue("ERNZ DANIELLE MANALO");
